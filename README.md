@@ -31,3 +31,23 @@
 <p>
   4. Configure Group Policy to Lockout the account after 5 attempts: [How to Configure Account Lockout Threshold in Group Policy](https://docs.google.com/document/d/1msUMWaPDMR1hPYxzGOlgN4KpUjnyyYEv3vvOQXkSpLQ/edit)
 </p>
+
+<p>
+  5. Attempt to log in with it 6 times with a bad password
+</p>
+
+<p>
+  6. Observe that the account has been locked out within Active Directory
+</p>
+  
+<p>
+  7. Unlock the account
+</p>
+
+<p>
+  8. Reset the password
+</p>
+
+<p>
+  9. Attempt to login with it
+</p>
