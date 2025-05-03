@@ -51,3 +51,27 @@
 <p>
   9. Attempt to login with it
 </p>
+
+<h2>Enabling and Disabling Accounts</h2>
+
+<p>
+  1. Disable the same account in Active Directory
+</p>
+
+<p>
+  2. Attempt to login with it, observe the error message
+</p>
+
+<p>
+  3. Re-enable the account and attempt to login with it.
+</p>
+
+<h2>Observing Logs</h2>
+
+<p>
+  1. Observe the logs in the Domain Controller
+</p>
+
+<p>
+  2. Observe the logs on the client Machine
+</p>
